@@ -57,7 +57,3 @@ Run Shopping Website yarn run:shopweb and open http://localhost:3000
 Note 1: during development you can run server with yarn run:server:dev to enable watch on TS files changes
 
 Note 2: on the first run, API Server (Backend) creates MongoDB local database ever_development with the following (default) Admin user
-
-email: admin@ever.co
-password: admin
-You can use credentials above to login into Platform Admin App.
